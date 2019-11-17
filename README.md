@@ -102,6 +102,7 @@ Models are stored in model folder.
 8. labelToOddeven_Vowelcharecter - changing labels
 9. It returns the CNN Model
 
-To get prediction Run the jupyter file and in `predict` function give path to test_csv.
+## To get prediction Run the jupyter file and in `predict` function give path to test_csv.
+## ![models link](https://drive.google.com/open?id=19GQrT7ZuGshiMfAow1TIGnXGyieY8jLn)
 
 
